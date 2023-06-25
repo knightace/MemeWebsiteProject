@@ -1,0 +1,19 @@
+html{
+    background-color:black;
+    color:white;
+}
+#Motivational_Image{
+    width:50%;
+    margin-left:25%;
+}
+#TomImage{
+    width:100%;
+    border:5px solid white;
+}
+h1{
+    font-family: 'Libre Baskerville', serif;
+}
+p{
+    font-family: 'Libre Baskerville', serif;
+
+}
